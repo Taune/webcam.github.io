@@ -5,7 +5,7 @@
   <title>Nilsbyen Webcam</title>
 </head>
 <body style="text-align:center">
-<h2>Live Snapshot</h2>
+<h2>Webcam Nilsbyen</h2>
 <img src="latest.jpg?cache_bust=${Date.now()}" alt="Live Image">
 </body>
 </html>
